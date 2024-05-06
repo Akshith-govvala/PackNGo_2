@@ -1,0 +1,93 @@
+[
+    {
+        "Name": "Taj Mahal",
+        "state": "Agra, Uttar Pradesh",
+        "Clothing": "Summer (March to June): Light cotton shirts, sunscreen. Sandals, wide-brimmed hat; Monsoon (July to September): Waterproof clothing, umbrella. Closed-toe shoes, poncho; Autumn (October to November): Light layers, comfortable shoes. Light jacket, sweater; Winter (December to February): Warm layers, hat, gloves. Closed-toe shoes, thermal wear."
+    },
+    {
+        "Name": "Red Fort",
+        "state": "Delhi",
+        "Clothing": " Summer(May-July):Light cottons,breathable fabrics,hats;Monsoon (August-September):Waterproof attire,umbrella,closed shoes ;Winter (November-February):Layered clothing,jackets,scarves,and shoes."
+    },
+    {
+        "Name": "Giza Pyramid Complex",
+        "state": "Giza, Egypt",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Great Wall of China",
+        "state": "Huairou District,Beijing",
+        "Clothing": "Summer (June-August): Light, breathable clothing,hats,sunglasses;Winter(December-February):Hoodies,insulated jackets,gloves,Spring/Fall (March-May,September-November): Moderate layers, comfortable shoes."
+    },
+    {
+        "Name": "Machu Picchu",
+        "state": "Historical place in Peru",
+        "Clothing": "Summer (December-February): Light,clothing, hats,rain gear;Winter (June-August):Hoodies,jacket, warm layers, gloves.Spring/Fall (March-May,September-November): Moderate layers,  jacket, comfortable shoes."
+    },
+    {
+        "Name": "Christ the Redeemer",
+        "state": "Rio de Janeiro, Brazil",
+        "Clothing": "Summer (December-February): Light clothing, hats, sunglasses;Winter(June-August): Light layers, jacket for cooler evenings.Spring/Fall (March to May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Dzuko Valley",
+        "state": "Nagaland",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Gokarna",
+        "state": "Karnataka",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Coorg",
+        "state": "Madikeri, Karnataka",
+        "Description": "Popularly known as the Scotland of India, Located along the western ghats, this famous coffee-producing hill station is well-known for its jaw-dropping ravishing scenery and opulence.",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Ooty",
+        "state": "Tamil Nadu",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Malvan",
+        "state": "Maharashtra",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Kashmir",
+        "state": "Kashmir",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Kaziranga National Park",
+        "state": "Assam",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Manali",
+        "state": "Himachal Pradesh",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Kasol",
+        "state": "Himachal Pradesh",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Badrinath",
+        "state": "Uttarakhand",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Ladakh",
+        "state": "Himachal Pradesh",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Kanyakumari",
+        "state": "Tamil Nadu",
+        "Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    }
+]
